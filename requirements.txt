@@ -1,7 +1,7 @@
-elevenlabs
+elevenlabs==0.2.27
 gtts
 pyaudio
-openai
+openai==0.28.0
 pygame
 speechrecognition
 viam-sdk
